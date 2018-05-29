@@ -1,0 +1,1 @@
+ALTER TABLE `venori_db`.`catalog` ADD `data` JSON NOT NULL;

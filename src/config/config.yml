@@ -1,0 +1,17 @@
+app:
+  port: 3001
+  host: 'localhost'
+
+db:
+  host: 'localhost'
+  user: 'root'
+  password: ''
+  database: 'venori_db'
+  connectionLimit: 10
+
+idex:
+  accessKey: ''
+  url: ''
+  urlFullInventory: ''
+  urlUpdateInventory: ''
+  urlUpdatePrevousInventory: ''
